@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Puppy Adoption</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="profile">Profile</string>
+    <string name="recommended">Recommended</string>
+    <string name="view">View</string>
+    <string name="more_puppies">More puppies</string>
+    <string name="only_for_you">Only for you</string>
+    <string name="owner_info">Owner Info</string>
+</resources>

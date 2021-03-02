@@ -1,0 +1,20 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.ComposeStarter" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor" tools:targetApi="l">#FFFFFF</item>
+        <!-- Status bar stuff. -->
+
+
+    </style>
+
+    <style name="Theme.ComposeStarter.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.ComposeStarter.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.ComposeStarter.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+</resources>
